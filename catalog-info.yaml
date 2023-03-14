@@ -6,7 +6,7 @@ metadata:
   description: My first Backstage catalog item.
   annotations:
     github.com/project-slug: icorenux/backstage
-    backstage.io/techdocs-ref: value
+    #backstage.io/techdocs-ref: value
     jenkins.io/job-full-name: "hello"
 spec:
   type: service
