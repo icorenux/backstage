@@ -2,13 +2,13 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: icorenux-backstage
-  title: Sample Service # optional, human readable component name
+  title: Sample Service v2 # optional, human readable component name
   description: My first Backstage catalog item.
   annotations:
     github.com/project-slug: icorenux/backstage
     #backstage.io/techdocs-ref: value
     jenkins.io/job-full-name: "hello"
 spec:
-  type: service
+  type: website
   owner: user:icorenux
   lifecycle: experimental
