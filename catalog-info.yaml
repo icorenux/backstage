@@ -9,6 +9,6 @@ metadata:
     #backstage.io/techdocs-ref: value
     jenkins.io/job-full-name: "hello"
 spec:
-  type: website
+  type: service
   owner: user:icorenux
   lifecycle: experimental
